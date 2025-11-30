@@ -1,0 +1,24 @@
+galeria_imagenes/
+│
+├── index.php
+├── login.php
+├── register.php
+├── dashboard.php
+├── galeria.php
+├── subir_imagen.php
+├── eliminar_imagen.php
+├── admin.php
+├── logout.php
+│
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── uploads/
+│   └── (carpetas de usuarios)
+├── includes/
+│   ├── config.php
+│   ├── database.php
+│   └── funciones.php
+└── sql/
+    └── database.sql
